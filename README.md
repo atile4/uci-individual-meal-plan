@@ -1,2 +1,6 @@
-# uci-individual-meal-plan
-A SQL analysis of an individual usage of their meal swipes at University of California Irvine.
+# UC Irvine Individual Meal Plan Stats
+
+**Author:** Atticus Wong
+
+## Introduction
+An SQL analysis of an individual's meal plan usage over the school year.
